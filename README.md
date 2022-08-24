@@ -30,7 +30,7 @@ First Open Source Flutter based Beautiful Material Design Text fields.(More desi
 
 ### Screenshots
 
-<img src="ss1.jpg" height="300em" />&nbsp;;&nbsp;;&nbsp; <img src="ss2.jpg" height="300em" /> &nbsp;;&nbsp;;&nbsp; 
+<img src="ss1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="ss2.jpg" height="300em" /> &nbsp;;&nbsp;;&nbsp; 
 <img src="ss3.gif" height="300em" /> 
 
 
